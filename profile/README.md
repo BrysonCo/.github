@@ -2,6 +2,8 @@
 
 Selected software projects spanning applied AI, connected devices, desktop applications, and operational systems. My work combines product architecture, AI-assisted implementation, integration, review, testing, and delivery. These summaries describe the engineering work; implementation repositories are private.
 
+**[Individual engineering profiles](https://github.com/BrysonCo/.github/blob/main/profile/TECHNICAL-PROFILES.md)** cover fourteen software projects and Ownce's embedded applications, with measured code size, languages, architecture, platforms, and testing evidence.
+
 ## Ownce
 
 **A user-owned application suite with local AI at its center.** Ownce is being built to replace a collection of paid and cloud-dependent applications with software and services the owner controls. The work spans application design, media playback, navigation, encrypted communication, infrastructure monitoring, and a substantial local knowledge system.
@@ -22,6 +24,8 @@ Ownce develops its own application experiences and shared AI/control layer over 
 **Current maturity:** This is an actively developed suite with substantial source implementation. Live-service and device qualification vary by app. Android has emulator evidence, while a verified Play release remains a separate step. Chat calling, full offline navigation, and a complete notebook-style knowledge interface remain ahead. Replacing comparable paid products is the product goal; complete parity across the suite is not claimed.
 
 Engineering areas: typed Python services, TypeScript application interfaces, native clients, local inference, scoped tools and memory, media integration, retrieval, cross-device workflows, and automated verification.
+
+[Ownce technical profile and individual application footprints](https://github.com/BrysonCo/.github/blob/main/profile/TECHNICAL-PROFILES.md#ownce)
 
 ### Selected demonstrations
 
@@ -57,17 +61,23 @@ An operations application covering project planning, delivery workflows, documen
 
 Engineering areas: C#, .NET, TypeScript, workflow design, access control, and application delivery.
 
+[Project Operations technical profile](https://github.com/BrysonCo/.github/blob/main/profile/TECHNICAL-PROFILES.md#project-operations)
+
 ## IoT Control Interface
 
 A device monitoring and administration application that connects telemetry services with a browser dashboard. The source includes device data handling, API functions, and telemetry archival tools.
 
 Engineering areas: JavaScript, TypeScript, device telemetry, cloud data integration, and operational interfaces.
 
+[IoT Control Interface technical profile](https://github.com/BrysonCo/.github/blob/main/profile/TECHNICAL-PROFILES.md#iot-control-interface)
+
 ## Archivist
 
 A desktop application for organizing and navigating media archives, with analysis workflows and a native application interface.
 
 Engineering areas: Python, desktop integration, background processing, media metadata, and archive workflows.
+
+[Archivist technical profile](https://github.com/BrysonCo/.github/blob/main/profile/TECHNICAL-PROFILES.md#archivist)
 
 ![Archivist drive and folder selection screen](https://raw.githubusercontent.com/BrysonCo/.github/main/profile/assets/archivist-folder-selection.png)
 
@@ -79,11 +89,15 @@ A software engine for capturing, organizing, and retrieving durable knowledge th
 
 Engineering areas: TypeScript, Python, retrieval, knowledge organization, and AI tool integration.
 
+[Personal knowledge engine technical profile](https://github.com/BrysonCo/.github/blob/main/profile/TECHNICAL-PROFILES.md#personal-knowledge-engine)
+
 ## Job Search Command Center
 
 A desktop application and browser extension for managing career evidence, opportunities, and application preparation. Final submission remains under the person's control.
 
 Engineering areas: Electron, TypeScript, SQLite, browser extensions, structured evidence, and assisted workflows.
+
+[Job Search Command Center technical profile](https://github.com/BrysonCo/.github/blob/main/profile/TECHNICAL-PROFILES.md#job-search-command-center)
 
 ## Professional review
 
