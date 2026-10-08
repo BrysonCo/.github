@@ -23,6 +23,34 @@ Ownce develops its own application experiences and shared AI/control layer over 
 
 Engineering areas: typed Python services, TypeScript application interfaces, native clients, local inference, scoped tools and memory, media integration, retrieval, cross-device workflows, and automated verification.
 
+### Selected demonstrations
+
+**Notebook — writing and connected diagrams.** A 24-second edited local walkthrough: write a note, switch to graph paper, create two labeled shapes, and connect them. This uses the actual Notebook editor component with sample content. It demonstrates editor behavior in isolation; it does not demonstrate backend storage or a deployed service. Recorded October 8, 2026.
+
+https://github.com/user-attachments/assets/e62d7825-49fe-476f-81e8-2b2fb0a773ac
+
+[Open or download the walkthrough (MP4)](https://github.com/BrysonCo/.github/blob/main/profile/assets/ownce-notebook-walkthrough.mp4)
+
+<details>
+<summary>View the Notebook editor screenshot</summary>
+
+![Ownce Notebook editor with a sample note on graph paper](https://raw.githubusercontent.com/BrysonCo/.github/main/profile/assets/ownce-notebook-editor.jpg)
+
+</details>
+
+**Watch — browsing an owned video library.** The chronological collection view groups titles by period and shows curator records. This is the implemented interface with a local sample library, captured September 15, 2026; it demonstrates browsing rather than video playback.
+
+![Watch collection browser with a local sample library](https://raw.githubusercontent.com/BrysonCo/.github/main/profile/assets/ownce-watch-library.png)
+
+<details>
+<summary>View Notebook’s CAD sketch and constraint solver</summary>
+
+![Notebook CAD sketch editor with a solved rectangle and remaining degrees of freedom](https://raw.githubusercontent.com/BrysonCo/.github/main/profile/assets/ownce-notebook-cad.png)
+
+The in-browser CAD sketcher after drawing and solving a rectangle with four structural constraints in a local test session. Four degrees of freedom remain; the sketch is not fully constrained. Actual implementation capture, September 15, 2026.
+
+</details>
+
 ## Project Operations
 
 An operations application covering project planning, delivery workflows, document access, and connected operational information. Its implementation combines a .NET service layer with web and desktop interfaces.
@@ -40,6 +68,10 @@ Engineering areas: JavaScript, TypeScript, device telemetry, cloud data integrat
 A desktop application for organizing and navigating media archives, with analysis workflows and a native application interface.
 
 Engineering areas: Python, desktop integration, background processing, media metadata, and archive workflows.
+
+![Archivist drive and folder selection screen](https://raw.githubusercontent.com/BrysonCo/.github/main/profile/assets/archivist-folder-selection.png)
+
+*Drive and folder selection, showing the approval-before-move workflow. Actual application capture from October 8, 2026, using a read-only index copy. This screen does not imply that every organization branch is complete.*
 
 ## Personal knowledge engine
 
